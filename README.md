@@ -2,8 +2,8 @@
 
 My name is Jawad, but you call me JoJo.
 My major is computer science 
-Worked on a calorie raking program using C++.
-Data base manegment personal computer store.
+Worked on a calorie traking program using C++.
+Data base manegment personal computer store project. 
 
 
 <!--
